@@ -3,7 +3,7 @@ We have created the largest human annotated Named Entity Recognition (NER) data 
 
 
 ## Data Set Stats
-|Data |No. Tweets |Tokens |Avg. Len | LOC| ORG| PER| EVT| DAT|Total Entities
+|Data |No. Tweets |Tokens |Avg. Len | LOC| ORG| PER| EVT| DAT|Total Entities|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Train | 5,366| 92,425| 17.22| 923| 782| 1,061| 34| 663| 3,463|
 |Test| 2,301| 39,133| 17.00| 389| 356| 444| 28| 286| 1,503| 
