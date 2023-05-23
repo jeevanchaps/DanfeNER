@@ -1,6 +1,11 @@
 # DanfeNER - Named Entity Recognition in Nepali Tweets
 We have created the largest human annotated Named Entity Recognition (NER) data set for Nepali tweets available to date.
 
+* DanfeNER covers five named entities - Person, Location, Organization, Event and Date
+* We split the DanfeNER data set into DanfeNER-train and DanfeNER-test. These standard data sets, therefore, become the first benchmark data sets for evaluating tweets Nepali NER systems.
+* We report a comprehensive evaluation of state-of-the-art Transformer models using these data sets.
+* We also discuss the remaining challenges for discovering NEs for Nepali (see our paper below).
+
 
 ## Data Set Stats
 |Data |No. Tweets |Tokens |Avg. Len | LOC| ORG| PER| EVT| DAT|Total Entities|
