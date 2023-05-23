@@ -61,7 +61,7 @@ Non-commercial purposes only. For commercial usages, permissions must be taken f
 Unless required by applicable law or agreed to in writing, software and data distributed here is on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
 # Cite Our Work
-If you use the EverestNER data set, please cite [our publication]((https://journals.flvc.org/FLAIRS/article/download/133384/137473)):
+If you use the EverestNER data set, please cite [our publication](https://journals.flvc.org/FLAIRS/article/download/133384/137473):
 ```bibtex
 @inproceedings{niraula2023danfener,
   title={DanfeNER-Named Entity Recognition in Nepali Tweets},
