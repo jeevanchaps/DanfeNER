@@ -10,7 +10,7 @@ We have created the largest human annotated Named Entity Recognition (NER) data 
 |Total| 7,667| 131,558| 17.11| 1,312| 1,138| 1,505| 62| 949| 4,966|
 
 ## Data Format
-The DanfeNER data set is divided into train (DanfeNER-train) and test (DanfeNER-test) sets. Each data set has character level as well as token leven annotations. Please read [our paper]([https://journals.flvc.org/FLAIRS/article/view/130725/133879](https://journals.flvc.org/FLAIRS/article/download/133384/137473) to get more information on this.
+The DanfeNER data set is divided into train (DanfeNER-train) and test (DanfeNER-test) sets. Each data set has character level as well as token leven annotations. Please read [our paper](https://journals.flvc.org/FLAIRS/article/download/133384/137473) to get more information on this.
 * Character Level
     * Train: [DanfeNER-train-char.txt](DanfeNER-train-char.txt)
     * Test:  [DanfeNER-test-char.txt](DanfeNER-train-char.txt)
@@ -18,3 +18,6 @@ The DanfeNER data set is divided into train (DanfeNER-train) and test (DanfeNER-
 * Token Level 
     * Train: [DanfeNER-train-bio.txt](DanfeNER-train-bio.txt)
     * Test: [DanfeNER-test-bio.txt](DanfeNER-train-bio.txt)
+
+
+## Our Results
