@@ -21,3 +21,10 @@ The DanfeNER data set is divided into train (DanfeNER-train) and test (DanfeNER-
 
 
 ## Our Results
+
+We used different transformer modles namely: monolingual transformer models as well as multilingual transformer model for our experiment. Monolingual Nepali transformer models are trained from scratch using Nepali text while multilingual models are trained to combine other languages. All of the transformers model used are available on HuggingFace. The different transformer based modles used are as follows:
+- NPVec1-BERT
+- NepaliBERT
+- NepBERT
+- DB-BERT
+- BERT-bbmu
